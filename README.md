@@ -6,12 +6,12 @@ A basic [Shiny app](https://shinylive.io/py/examples/#plot-output) deployed on G
 
 ## GitHub Actions 
 
-Please refer to [./.github/workflows/pages.yml]() for GitHub Actions Script.
+Please refer to [./.github/workflows/pages.yml](https://github.com/rickyking/shiny-py/blob/main/.github/workflows/pages.yml) for GitHub Actions Script.
 
 The shiny static is created via `shiny static app site`.
 
 ## Include additional packages
 
-Please refer to [./app/requirements.txt]().
+Please refer to [./app/requirements.txt](https://github.com/rickyking/shiny-py/blob/main/app/requirements.txt).
 
 The reference documentation is available [here](https://shiny.rstudio.com/py/docs/shinylive.html#python-packages)
