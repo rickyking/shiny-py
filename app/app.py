@@ -1,4 +1,5 @@
 from shiny import ui, render, App
+import isodate
 
 app_ui = ui.page_fluid(
     ui.input_slider("n", "N", 0, 100, 40),
