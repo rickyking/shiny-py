@@ -1,6 +1,10 @@
 # shiny-py
 
+[![Deploy static content to Pages](https://github.com/rickyking/shiny-py/actions/workflows/pages.yml/badge.svg)](https://github.com/rickyking/shiny-py/actions/workflows/pages.yml)
+
 A basic [Shiny app](https://shinylive.io/py/examples/#plot-output) deployed on GitHub Pages via [ShinyLive](https://shiny.rstudio.com/py/docs/shinylive.html) (Shiny + WebAssembly).
+
+The example is deployed at [https://jinyi.me/shiny-py/]()
 
 ![](https://shiny.rstudio.com/py/docs/shinylive-shinylive-deployment-model.png)
 
